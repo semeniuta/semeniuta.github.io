@@ -1,0 +1,4 @@
+Sitemap: http://alexsm.com/sitemapindex.xml
+
+User-Agent: *
+Host: alexsm.com
