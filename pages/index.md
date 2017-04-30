@@ -19,4 +19,4 @@ I enjoy developing solutions based on open source technologies, and look for the
 
 ## Contact
 
-You may contact me at oleksandr.semeniuta@gmail.com. I am also on [Github](https://github.com/semeniuta), [LinkedIn](https://www.linkedin.com/in/semeniuta/), [Twitter](https://twitter.com/OSemeniuta), and [Instagram](https://www.instagram.com/oleksandr_s/).
+You may contact me at *oleksandr.semeniuta@gmail.com*. I am also on [Github](https://github.com/semeniuta), [LinkedIn](https://www.linkedin.com/in/semeniuta/), [Twitter](https://twitter.com/OSemeniuta), and [Instagram](https://www.instagram.com/oleksandr_s/).

@@ -919,7 +919,7 @@ LICENSE = ""
 # (translatable)
 #CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
-CONTENT_FOOTER = '&copy; {date} <a href="mailto:{email}">{author}</a>'
+CONTENT_FOOTER = '&copy; {date} {author}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
