@@ -7,26 +7,30 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://alexsm.com/</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://alexsm.com/archive.html</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://alexsm.com/blog/</loc>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://alexsm.com/categories/</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://alexsm.com/galleries/</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://alexsm.com/listings/</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://alexsm.com/listings/.gitkeeep.html</loc>
-  <lastmod>2017-04-16T13:57:00Z</lastmod>
+  <lastmod>2017-04-30T12:28:00Z</lastmod>
  </url>
 </urlset>
