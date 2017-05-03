@@ -11,6 +11,8 @@
 
 ## About
 
+<img src="images/oleksandr_semeniuta.jpg" style="float:right;width:200px;height:200px;padding: 0 0 10px 10px" />
+
 Hi, my name is **Oleksandr Semeniuta**. I am a researcher in *automation*  focusing on applications of computer vision and data science in industrial robotic systems. Currently I am a PhD research fellow at [NTNU](https://www.ntnu.edu/) while pursuing my doctoral degree at [Chalmers University of Technology](http://www.chalmers.se/).
 
 My research interests include, but not limited to, geometric computer vision, image segmentation, machine learning, data science, Bayesian methods, cyber-physical systems, networked control systems, distributed computing architecture, and cloud robotics and automation.
