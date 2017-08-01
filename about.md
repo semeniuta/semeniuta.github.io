@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is **Oleksandr Semeniuta**. I am a researcher in *automation*  focusing on applications of computer vision and data science in industrial robotic systems. Currently I am a PhD research fellow at [NTNU](https://www.ntnu.edu/) while pursuing my doctoral degree at [Chalmers University of Technology](http://www.chalmers.se/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+My research interests include, but not limited to, geometric computer vision, image segmentation, machine learning, data science, Bayesian methods, cyber-physical systems, networked control systems, distributed computing architecture, and cloud robotics and automation.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I enjoy developing solutions based on open source technologies, and look for the ways of more smooth transition from ad-hoc hacking and tinkering to building well-structured computing and control systems.
+
+## Contact
+
+You may contact me at *oleksandr.semeniuta@gmail.com*. I am also on [Github](https://github.com/semeniuta), [LinkedIn](https://www.linkedin.com/in/semeniuta/), [Twitter](https://twitter.com/OSemeniuta), and [Instagram](https://www.instagram.com/oleksandr_s/).
