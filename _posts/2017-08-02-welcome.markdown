@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Welcome"
+permalink: first-post
+---
+
+It's been a long time since I planned to start a blog where I would publish various technical tricks which I have experienced in my work. I had greatly benefited from the others' contributions -- in blogs, Stack Overflow, and open-source software -- and it's definitely a good idea to share my own knowledge in an organized way. The goal is to make this blog a useful and interesting resource, perhaps with more than just nerdy stuff. Let's get started!
