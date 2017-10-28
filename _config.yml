@@ -16,7 +16,7 @@
 title: alexsm
 email: oleksandr.semeniuta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog by Oleksandr Semeniuta about programming, Python, *nix, data science, computer vision, and other technical and not only stuff.
+  A blog by Oleksandr Semeniuta about programming, C++, Python, *nix, data science, computer vision, and other technical and not only stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OSemeniuta
