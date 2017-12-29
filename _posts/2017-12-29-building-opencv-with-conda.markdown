@@ -7,9 +7,9 @@ permalink: building-opencv-with-conda
 
 When it comes to building and installing OpenCV with Python support on \*nix platforms, the collection of [tutorials by Adrian Rosebrock](https://www.pyimagesearch.com/opencv-tutorials-resources-guides/) is the best. He provides detailed description of the required steps, as well as motivation for better development practices. In particular, Adrian creates a dedicated `virtualenv` environment, installs NumPy in it, and builds the whole thing having this environment activated.
 
-Such a solution worked pretty well for me, both on Linux and macOS. However, in my work i mostly use `conda` for managing my Python environments. It especially shines on Raspberry Pies, where `conda`'s pre-built binaries get installed way faster than the `pip`-installed ones.
+Such a solution worked pretty well for me, both on Linux and macOS. However, in my work I mostly use `conda` for managing my Python environments. It especially shines on Raspberry Pies, where `conda`'s pre-built binaries get installed way faster than the `pip`-installed ones.
 
-It is worth to mention that there exists pre-built OpenCV 3 binaries in the [menpo](https://anaconda.org/menpo/opencv3/files) channel on Anaconda Cloud. Their availability vary by operating systems and Python versions, but they are in general a pretty good reproducible solution when OpenCV is only used in Python. My aim, however, is to build OpenCV so that it could be used in both C++ and Python.   
+It is worth to mention that there exist pre-built OpenCV 3 binaries in the [menpo](https://anaconda.org/menpo/opencv3/files) channel on Anaconda Cloud. Their availability vary by operating systems and Python versions, but they are in general a pretty good reproducible solution when OpenCV is only used in Python. My aim, however, is to build OpenCV so that it could be used in both C++ and Python.   
 
 Further in this blog post I am going to summarize my notes on building OpenCV 3 on Ubuntu using `conda`'s Python 3.6, with further symlinking of the Python extension to other `conda` environments. My Ubuntu version as of time of this writing is 16.04.3 (Xenial Xerus).
 
